@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun side projects with new technologies / model architectures
 - 📫 How to reach me here, or www.linkedin.com/in/jameshkc
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I am synesthetic, which doesn't come up often, but helps me write novel music.
+- ⚡ Fun fact: I am synesthetic, which doesn't come up often, but helps me write music.
 
 <!---
 JamesHKCampbell/JamesHKCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
